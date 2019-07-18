@@ -1,0 +1,29 @@
+{
+  "name": "js-python",
+  "version": "1.0.0",
+  "description": "work with python from nodeja",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farhan-Nazir/js-python.git"
+  },
+  "keywords": [
+    "Python",
+    "Js",
+    "JSpython"
+  ],
+  "author": "Farhan Nazir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farhan-Nazir/js-python/issues"
+  },
+  "homepage": "https://github.com/Farhan-Nazir/js-python#readme",
+  "dependencies": {
+    "childprocess": "^2.0.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
